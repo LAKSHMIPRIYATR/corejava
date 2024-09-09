@@ -1,5 +1,6 @@
-package com.tnsif.lambda;
+package com.tnsif.Lambda;
 
-public class Cube {
+public interface Cube {
+	int cal(int a );
 
 }
