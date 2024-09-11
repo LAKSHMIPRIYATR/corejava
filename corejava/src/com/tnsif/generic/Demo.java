@@ -1,4 +1,4 @@
-package com.tnsif.Generic;
+package com.tnsif.generic;
 
 public class Demo {
 	public static void main(String args[]) {

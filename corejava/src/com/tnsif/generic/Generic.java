@@ -1,4 +1,4 @@
-package com.tnsif.Generic;
+package com.tnsif.generic;
 
 public class Generic<T> {
 	T data;

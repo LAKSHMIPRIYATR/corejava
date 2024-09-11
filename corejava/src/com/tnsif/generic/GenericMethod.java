@@ -1,4 +1,4 @@
-package com.tnsif.Generic;
+package com.tnsif.generic;
 
 public class GenericMethod {
 	public<T>void displayArrayElements(T[] elements){
